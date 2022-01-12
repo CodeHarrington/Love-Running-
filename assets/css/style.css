@@ -68,12 +68,13 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../css/image/hero-image.webp') no-repeat center center;
-}
+
 
     /* animation zoom effect on a loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+}
 
 /* create the lead of zooom for hero image */
 @keyframes hero-zoom {
